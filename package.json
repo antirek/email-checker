@@ -1,0 +1,25 @@
+{
+  "name": "email-checker",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antirek/email-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antirek/email-checker/issues"
+  },
+  "homepage": "https://github.com/antirek/email-checker",
+  "dependencies": {
+    "google-speech": "0.0.5",
+    "html2plaintext": "^1.0.1",
+    "mailparser": "^0.5.3",
+    "poplib": "^0.1.7"
+  }
+}
